@@ -50,8 +50,8 @@ To view or edit the project locally:
 
 
 2. Open the project:
-Open index.html in your browser.
-Edit style.css or script.js to customize.
+- Open index.html in your browser.
+- Edit style.css or script.js to customize.
 
 📜 License
 This project is open for learning and personal portfolio purposes.
