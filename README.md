@@ -6,13 +6,14 @@ This project is designed as a simple frontend static website showcasing a restau
 👉 [View Live Website](https://adikc015.github.io/Restaurant/)
 
 📂 Project Structure
+```
 Restaurant/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── images/
 │   └── (all image assets)
-
+```
 
 - `index.html` – Main webpage
 - `style.css` – Stylesheet for design and responsiveness
